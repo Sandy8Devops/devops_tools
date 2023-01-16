@@ -1,0 +1,44 @@
+VM's
+---------
+oracl Virtual Box
+
+Repository
+----
+Git
+GitLab
+
+Configuration Mgnt
+--------
+Ansible
+
+docker Archites
+Kubernetes
+
+
+CLOUD
+-----
+AWS (must) 
+ > Free tier acc
+ > IAM user with Security Group
+ > aws cli
+ 
+
+Vagrant
+
+Mac
+----
+brew (package mgnt)
+
+
+Windows
+---
+Chocolatey (powershell), it helps other tools to setit up
+
+Build Toolsl
+--
+Ant
+Maven
+
+Domain 
+-----
+go daddy or other
