@@ -28,6 +28,14 @@ Vagrant
 Mac
 ----
 brew (package mgnt)
+after setting up brew install
+go to https://brew.sh/ as home brew site
+
+search for yout tools like
+ vagrant
+ get the command, copy and paste in your mac to setup tools in mac
+ 
+ ie: brew install --cask vagrant
 
 
 Windows
